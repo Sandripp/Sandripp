@@ -10,8 +10,11 @@ Currently studying MBA Analytics from Indian Institute of Management Kashipur.
 - Search Engine Optimization (SEO)
 - Data analysis
 - Business analysis
-- Leadership 
+- Leadershoip 
 - Teamwork
+- HTML
+- JavaScript
+- CSS
 
 
 ## Certifications
