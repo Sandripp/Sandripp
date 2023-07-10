@@ -1,4 +1,4 @@
-# Hello I'm Sandip
+# Hello I'm Sandip Murmu
 ## About Me
 Insightful entry level analyst with skills in problem solving and new business development. 
 Equipped with excellent communication skills, work ethics, and possesses a strong sense of leadership.
